@@ -3,14 +3,16 @@
 }
 
 body {
-    background-color: azure;
+    background-color: rgb(178, 194, 194);
     font-size: 62.60%;
 }
 
 .heading-main {
     font-size: 1.2rem;
     color: #777;
-    margin: 0 auto
+    margin: 0 auto;
+    height: 95vh;
+    padding: 3.5rem
 }
 
 .paragraph {
