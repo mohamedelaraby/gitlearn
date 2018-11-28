@@ -18,3 +18,8 @@ body {
 .paragraph {
     align-content: center
 }
+.air-image{
+width: 96vh;
+    height:95vh;
+    border: 10px solid red;
+}
