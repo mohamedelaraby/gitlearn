@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(178, 194, 194);
+    font-size: 62.60%;
+}
+
+.heading-main {
+    font-size: 1.2rem;
+    color: #777;
+    margin: 0 auto;
+    height: 95vh;
+    padding: 3.5rem
+}
+
+.paragraph {
+    align-content: center
+}
+.air-image{
+width: 96vh;
+    height:95vh;
+    border: 10px solid red;
+}
